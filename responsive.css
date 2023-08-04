@@ -1,0 +1,100 @@
+@media (max-width: 1400px) {
+  
+    
+  }
+@media (max-width: 1200px) {
+    
+  }
+@media (max-width: 992px) {
+  .header-menu li a {
+	padding: 17px;
+  }
+  .top-part h5 {
+    font-size: 40px;
+  }
+  .bottom-part ul li {
+    line-height: 30px;
+    font-size: 15px;
+  }
+  .top li::before {
+    content: "\f00c";
+    font-size: 18px;
+
+  }
+  .botom li::before {
+    content: "\f00d";
+    font-size: 19px;
+  }
+  .bottom-part {
+    padding: 45px 31px;
+  }
+  .who {
+    font-size: 19px;
+  }
+  .t-content p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+    
+  }
+@media (max-width: 768px) {
+  .logo {
+    width: 100%;
+    text-align: center;
+  }
+  .container, .container-sm {
+    max-width: 676px;
+  }
+  .menu {
+    width: 80%;
+  }
+  .header-menu {
+    text-align: left;
+  }
+  .buton {
+    width: 20%;
+  }
+  .tem-width {
+    width: 50%;
+  }
+  .jon-don {
+    font-size: 15px !important;
+  }
+ 
+    
+  }
+@media (max-width: 600px) {
+  .header-menu li a {
+    padding: 9px;
+  }
+  .header-btn {
+    padding: 5px 0;
+  }
+  .menu {
+    width: 100%;
+  }
+  .header-menu {
+    text-align: center;
+  }
+  .buton {
+    width: 100%;
+  }
+  .feedbak-wid {
+    width: 100%;
+  }
+ 
+}
+@media (max-width: 500px) {
+  
+ 
+}
+@media (max-width: 440px) {
+ 
+}
+@media (max-width: 480px) {
+ 
+}
+    
+  
+
+  
